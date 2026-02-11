@@ -5,6 +5,7 @@
 - 学习 `git init`、`git add`、`git commit`
 - 学习远程仓库 `git remote add`、`git push`、`git pull`
 - 练习分支、合并等操作
+- 练习 PR：从功能分支合并到 dev
 
 ## 本地常用命令
 
