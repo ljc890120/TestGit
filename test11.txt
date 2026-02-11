@@ -1,2 +1,4 @@
-﻿test-mr: different line 1
+test-mr: different line 1
 test-mr: different line 2
+dev: line 1 modification
+dev: line 2 added
