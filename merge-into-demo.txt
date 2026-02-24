@@ -1,0 +1,7 @@
+# Merge into 方式合入演示
+
+本文件通过「直接 merge 进 dev」的方式合入，不经过 PR。
+
+- 分支：feature/test-file-pr
+- 方式：git merge feature/test-file-pr（在 dev 上执行）
+- 与 PR 合并的区别：无 PR 记录，只有 merge commit
